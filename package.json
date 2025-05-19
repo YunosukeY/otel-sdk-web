@@ -38,7 +38,7 @@
     "@rollup/plugin-typescript": "^12.0.0",
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "conventional-changelog-conventionalcommits": "^8.0.0",
+    "conventional-changelog-conventionalcommits": "^9.0.0",
     "eslint": "^8.0.1",
     "eslint-config-prettier": "^10.0.0",
     "eslint-config-standard-with-typescript": "^43.0.1",
